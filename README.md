@@ -30,9 +30,9 @@
             border-radius: 6px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.04);
         }
-        h1 { border-bottom: 2px solid var(--border-color); padding-bottom: 10px; color: var(--primary-color); }
-        h2 { border-bottom: 1px solid var(--border-color); padding-bottom: 8px; margin-top: 30px; color: var(--primary-color); }
-        h3 { color: #444; margin-top: 20px; }
+        h1 { border-bottom: 2px solid var(--border-color); padding-bottom: 10px; color: var(--primary-color); font-size: 22px; }
+        h2 { border-bottom: 1px solid var(--border-color); padding-bottom: 8px; margin-top: 30px; color: var(--primary-color); font-size: 18px; }
+        h3 { color: #444; margin-top: 20px; font-size: 15px; }
         code { background: #f3f3f3; padding: 2px 6px; border-radius: 3px; font-family: monospace; }
         .table-responsive { overflow-x: auto; margin: 20px 0; }
         table { width: 100%; border-collapse: collapse; text-align: right; }
@@ -45,6 +45,7 @@
             padding: 15px;
             border-radius: 4px;
             margin: 20px 0;
+            font-size: 14px;
         }
         .anchor-link {
             color: var(--accent-color);
@@ -123,7 +124,7 @@
     </ol>
 
     <h2>۴. اطلاعات دسترسی و منابع راهنمای دریافت برنامه</h2>
-    <p>بسیاری از کاربران برای حل چالش‌های اتصال و آگاهی از آخرین به‌روزرسانی‌های نرم‌افزاری، نیازمند مطالعه مقالات تحلیلی هستند. جهت بررسی دقیق مشخصات، آموزش‌های تصویری و آشنایی با مراحل دریافت فایل‌ها، مطالعه راهنمای تخصصی مربوط به <a href="https://betfa90.org/app/" class="anchor-link">دانلود اپلیکیشن بت فا</a> به شما کمک می‌کند تا بدون سردرگمی، تمام مراحل نصب را روی تلفن همراه خود اجرا نمایید.</p>
+    <p>بسیاری از کاربران برای حل چالش‌های اتصال و آگاهی از آخرین به‌روزرسانی‌های نرم‌افزاری، نیازمند مطالعه مقالات تحلیلی هستند. جهت بررسی دقیق مشخصات، آموزش‌های تصویری و آشنایی با مراحل دریافت فایل‌ها، مطالعه راهنمای تخصصی مربوط به <a href="https://betfa90.org/category/download-betfa/" class="anchor-link">دانلود اپلیکیشن بت فا</a> به شما کمک می‌کند تا بدون سردرگمی، تمام مراحل نصب را روی تلفن همراه خود اجرا نمایید.</p>
 
     <h2>۵. عیب‌یابی خطاهای متداول نسخه موبایل</h2>
     <h3>خطای عدم بارگذاری عناصر صفحه (White Screen Error):</h3>
